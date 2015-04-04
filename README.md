@@ -8,7 +8,8 @@ A list of community-built React Native contributions
 - https://github.com/gcanti/tcomb-form-native
 - FacebookLoginManager: https://github.com/brentvatne/react-native-login
 - https://github.com/dzannotti/react-thesidebar
-- https://github.com/Kureev/react-native-navbar
+- [Navigation bar](https://github.com/Kureev/react-native-navbar)
+- [Side menu](https://github.com/Kureev/react-native-side-menu)
 - https://github.com/jsdf/react-native-refreshable-listview
 - LinearGradient: https://github.com/brentvatne/react-native-linear-gradient
 - UISegmentedControl: http://qiita.com/laiso/items/5c5ef9158a37726d109d
